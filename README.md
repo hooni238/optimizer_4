@@ -27,7 +27,10 @@
 
 
 ## 🧐 صورت‌بندی سوال <a name = "problem_statement"></a>
-فرمول‌بندی سوال بهینه‌سازی حل شده در کد و اشاره به تقریب‌هایی که از سوال اصلی زده‌اید تا به سوال مورد نظر برسید
+پ<img src="https://latex.codecogs.com/svg.image?\begin{matrix}min&space;\sum_{i=1,j=1}^{n,m}d(A_{i},C_{j})&space;\\&space;d(A_{i},C_{j})=\sqrt{\sum_{k=1}^{d}(A_{ik}-&space;C_{jk})^{2}}\end{matrix}" title="\begin{matrix}min \sum_{i=1,j=1}^{n,m}d(A_{i},C_{j}) \\ d(A_{i},C_{j})=\sqrt{\sum_{k=1}^{d}(A_{ik}- C_{jk})^{2}}\end{matrix}" />
+
+
+
 
 
 ## 🏁 روند اجرا <a name = "getting_started"></a>
